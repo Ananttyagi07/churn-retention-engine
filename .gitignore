@@ -358,7 +358,7 @@ credentials.json
 *.key
 *.cert
 *.crt
-
+!.env.example
 # AWS
 .aws/
 
